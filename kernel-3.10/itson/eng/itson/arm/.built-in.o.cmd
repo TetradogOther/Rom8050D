@@ -1,0 +1,1 @@
+cmd_/home/gaoxiang.zou/0_code/1_pixi4_6_3g/kernel-3.10/itson/eng/itson/arm/built-in.o :=  rm -f /home/gaoxiang.zou/0_code/1_pixi4_6_3g/kernel-3.10/itson/eng/itson/arm/built-in.o; /home/gaoxiang.zou/0_code/1_pixi4_6_3g/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8/bin/arm-eabi-ar rcsD /home/gaoxiang.zou/0_code/1_pixi4_6_3g/kernel-3.10/itson/eng/itson/arm/built-in.o
